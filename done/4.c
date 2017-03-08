@@ -1,3 +1,5 @@
+//for this question, the given hint is binary tree. Use binary tree to do it next time.
+
 double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Size) {
      int m, n = 0;
     int *A, *B = NULL;
